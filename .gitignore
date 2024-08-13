@@ -9,8 +9,11 @@
 *.blg
 *.swp
 *.dvi
+*.out
 *.listing
 *.out.ps
 *.synctex.gz
 # Project exclude paths
 /out/
+*.iml
+*.idea
