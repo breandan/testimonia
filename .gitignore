@@ -1,0 +1,16 @@
+*.lot
+*.lof
+*.log
+*.pyg
+*.gz
+*.toc
+*.aux
+*.bbl
+*.blg
+*.swp
+*.dvi
+*.listing
+*.out.ps
+*.synctex.gz
+# Project exclude paths
+/out/
