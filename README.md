@@ -1,0 +1,3 @@
+# Testimonia Catholicorum de Machina Cogitans
+
+This project is an effort to catalogue the perspectives of Catholic scholars who have written on the subject of artificial intelligence. We attempt to correlate the Catholic intellectual tradition with the development of computer science, and to provide a resource for those who are curious about the intersection of theology and technology. If you are reading this and feel we have missed an important perspective or would like to contribute, please feel free to get in touch.
